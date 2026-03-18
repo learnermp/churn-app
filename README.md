@@ -1,5 +1,6 @@
 # churn-app
 Customer churn prediction app using Logistic Regression with Streamlit UI
+
 “This project demonstrates how a trained ML model can be exposed through a simple UI using Streamlit for real-time prediction.”
 
 # Concepts
@@ -89,7 +90,7 @@ contact : learnermp@gmail.com
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 <img width="691" height="507" alt="image" src="https://github.com/user-attachments/assets/b380bb09-65b5-4afd-8ecb-728087922997" />
 
