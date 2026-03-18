@@ -10,16 +10,8 @@ classification
 python
 
 churn-prediction-ml/
-│
-├── data/                  # (optional - sample or ignored)
-├── model/
-│   └── model-churn.bin
-│
-├── streamlit_app.py       ⭐ MAIN APP
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
+<img width="211" height="258" alt="image" src="https://github.com/user-attachments/assets/504b57bc-3c74-495e-b55c-5302b37ef9e8" />
+
 
 # Customer Churn Prediction (Machine Learning Project)
 
@@ -85,7 +77,7 @@ streamlit run streamlit_app.py
 
 ## 🌐 Live Demo
 
-👉 contact me : learnermp@gmail.com
+contact : learnermp@gmail.com
 
 ---
 
@@ -117,6 +109,6 @@ Mrityunjay P
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a star ⭐
