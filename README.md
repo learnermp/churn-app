@@ -9,7 +9,7 @@ logistic-regression
 classification
 python
 
-churn-prediction-ml/
+
 <img width="211" height="258" alt="image" src="https://github.com/user-attachments/assets/504b57bc-3c74-495e-b55c-5302b37ef9e8" />
 
 
