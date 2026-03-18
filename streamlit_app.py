@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 st.title("Customer Churn Prediction")
-st.write("This app predicts customer churn using a trained ML model.")
+st.write("This project demonstrates how a trained ML model can be exposed through a simple UI using Streamlit for real-time prediction.")
 # Load model ONLY once
 @st.cache_resource
 def load_model():
