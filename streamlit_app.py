@@ -13,10 +13,10 @@ dv, model = load_model()
 
 # Inputs
 gender = st.selectbox("Gender", ["male", "female"])
-seniorcitizen = st.selectbox("Senior Citizen", [0, 1])
+seniorcitizen = st.selectbox("Senior Citizen: 0=No, 1=Yes", [0, 1])
 partner = st.selectbox("Partner", ["yes", "no"])
 dependents = st.selectbox("Dependents", ["yes", "no"])
-tenure = st.slider("Tenure", 0, 72)
+tenure = st.slider("Tenure in Months", 0, 72)
 phoneservice = st.selectbox("Phone Service", ["yes", "no"])
 multiplelines = st.selectbox("Multiple Lines", ["yes", "no"])
 internetservice = st.selectbox("Internet Service", ["dsl", "fiber_optic", "no"])
