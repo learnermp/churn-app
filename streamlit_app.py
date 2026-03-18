@@ -3,7 +3,7 @@ import pickle
 
 st.title("Customer Churn Prediction")
 st.write("This app predicts customer churn using a trained ML model.")
-# ✅ Load model ONLY once
+# Load model ONLY once
 @st.cache_resource
 def load_model():
     with open('model/model-churn.bin', 'rb') as f:
